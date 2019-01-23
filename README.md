@@ -13,4 +13,5 @@ Java设计模式
 
 ---
 
-[轻书](http://books.edurt.com/books/java_design_pattern)
+- [轻书](http://books.edurt.com/books/java_design_pattern)
+- [Wiki知识库](http://wiki.ttxit.com/display/oraclejava/Java+Design+Patterns)
